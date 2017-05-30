@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="accesscpn/org.cpntools.accesscpn.model_2.2.0.jar"/>
+	<classpathentry kind="lib" path="accesscpn/org.cpntools.accesscpn.model.importer_2.2.0.jar"/>
+	<classpathentry kind="lib" path="accesscpn/org.cpntools.accesscpn.engine.highlevel_2.2.0.jar"/>
+	<classpathentry kind="lib" path="accesscpn/org.cpntools.accesscpn.engine_2.2.0.jar"/>
+	<classpathentry kind="lib" path="accesscpn/org.cpntools.accesscpn.engine.proxy_2.2.0.jar"/>
+	<classpathentry kind="lib" path="emf/org.eclipse.emf.common_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="emf/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="emf/org.eclipse.emf.ecore.change_2.11.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="emf/org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
